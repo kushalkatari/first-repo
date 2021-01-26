@@ -1,2 +1,3 @@
 # first-repo
-To learn about creating repository
+just a basic repository to play around with
+
